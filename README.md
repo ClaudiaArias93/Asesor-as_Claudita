@@ -1,4 +1,4 @@
-# Asesorías_Claudita
+# Asesorías_Claudita 📊📊
 Se dan asesorías en proyectos de grado, trabajos de investigación, manejo de programas estadísticos como SPSS, Geoda, OpenEpi, Stata, JASP, Review Manager, proceso de publicación en revistas, etc. 
 
 ## 🚀 Identidad de Marca
@@ -117,12 +117,12 @@ Beneficios de Elegir Asesorías Claudita
   
 **Enfoque**:
   - Lunes: Producto o Servicio Destacado
-      Enfoque: Resaltar un servicio específico, detallando sus beneficios y aplicaciones prácticas.
-      Objetivo: Atraer clientes interesados en los servicios de análisis estadístico y asesorías personalizadas.
-      Ejemplo:
-      Publicación: "Con nuestras asesorías en SPSS, tus análisis serán más rápidos y precisos. ¡Contáctanos!"
-      Formato: Imagen promocional o infografía.
-      Plataforma: Instagram y Facebook.
+      *Enfoque: Resaltar un servicio específico, detallando sus beneficios y aplicaciones prácticas.
+      *Objetivo: Atraer clientes interesados en los servicios de análisis estadístico y asesorías personalizadas.
+      *Ejemplo:
+      *Publicación: "Con nuestras asesorías en SPSS, tus análisis serán más rápidos y precisos. ¡Contáctanos!"
+      *Formato: Imagen promocional o infografía.
+      *Plataforma: Instagram y Facebook.
 
 -  Miércoles: Educativo o Inspirador
       Enfoque: Publicaciones que agreguen valor a la audiencia con consejos útiles o mensajes motivadores.
