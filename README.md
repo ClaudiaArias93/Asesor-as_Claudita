@@ -80,10 +80,9 @@ En general, es un diseño atractivo, bien equilibrado y funcional para comunicar
 | Día 15 | Caso de Éxito | Video corto destacando un caso de éxito (sin nombres, enfocado en el proceso y los resultados) | Instagram | 	Mostrar expertise y conectar emocionalmente |
 | Día 18 | Oferta Especial | Anuncio promocional: "¡10% de descuento en asesorías por tiempo limitado! Escríbenos hoy" | Instagram, Facebook | 	Generar urgencia y captar clientes |
 
-### Estrategia de lanzamiento
  **Plataformas Clave**:
-  -Instagram: Para contenido visualmente atractivo que conecte con una audiencia joven y profesional. Ideal para infografías, casos de éxito y videos cortos.
-  -Facebook: Para llegar a una audiencia más amplia y consolidada, especialmente investigadores y docentes. Contenido centrado en publicaciones promocionales y testimonios.
+   -Instagram: Para contenido visualmente atractivo que conecte con una audiencia joven y profesional. Ideal para infografías, casos de éxito y videos cortos.
+   -Facebook: Para llegar a una audiencia más amplia y consolidada, especialmente investigadores y docentes. Contenido centrado en publicaciones promocionales y testimonios.
 
  **Tipos de Contenido**:
   - Promocional: Publicaciones con ofertas, descuentos y servicios destacados para captar nuevos clientes. Ejemplo: "10% de descuento en asesorías por tiempo limitado."
