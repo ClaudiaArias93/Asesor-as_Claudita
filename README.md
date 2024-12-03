@@ -1,5 +1,5 @@
 # Asesorías_Claudita 📊📊
-Se dan asesorías en proyectos de grado, trabajos de investigación, manejo de programas estadísticos como SPSS, Geoda, OpenEpi, Stata, JASP, Review Manager, proceso de publicación en revistas, etc. 
+Se dan asesorías en proyectos de grado, trabajos de investigación, manejo de programas estadísticos como SPSS, Geoda, OpenEpi, Stata, JASP, Review Manager, proceso de publicación en revistas y todo lo relacionado con la investigación, lo más cercano al conocimiento. 
 
 ## 🚀 Identidad de Marca
 
