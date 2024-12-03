@@ -11,7 +11,7 @@ Se dan asesorías en proyectos de grado, trabajos de investigación, manejo de p
 
 ## 🎨 Logo
 
-<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/PrintShareLogo.jpeg?raw=true" width=](https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/AsesoriasClaudita.jpg?raw=true)"35%"/>
+<img src="https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/AsesoriasClaudita.jpg?raw=true" width="35%"/>
 
 ### Descripción del logo
 El logo describe las herramientas estadísticas mencionadas, como SPSS, Stata, Epidat y GeoDa, están claramente etiquetadas, destacando la especialización en análisis de datos y programas estadísticos. Al fondo con un gráfico tridimensional de líneas y barras con tonos vibrantes (morado, azul, amarillo y rosa), simbolizando análisis de datos y visualización estadística. La elección de colores llamativos crea una sensación moderna y tecnológica. Los tonos neón y pasteles (morado, amarillo, rosa, azul) representan innovación y creatividad, el fondo oscuro realza los colores brillantes, generando un contraste impactante y profesional. Este diseño equilibra texto y gráficos, asegurando claridad en el mensaje mientras conserva un atractivo visual. El logotipo comunica: Especialización en herramientas y análisis estadístico profesionalismo y modernidad, además con el uso de gráficos avanzados, colores tecnológicos expresando creatividad y enfoque académico, ideal para atraer estudiantes, investigadores y profesionales.
@@ -35,7 +35,6 @@ Ser reconocidos como líderes en asesorías académicas y metodológicas en Amé
 En Asesorías Claudita, combinamos un enfoque personalizado y práctico con dominio experto en herramientas estadísticas y procesos de investigación, ofreciendo no solo soluciones académicas de alta calidad, sino también el conocimiento necesario para que nuestros clientes sean autosuficientes y destaquen en sus proyectos. ¡Transformamos tus ideas en conocimiento de valor duradero!
 
 ## 🎨 Imágenes Promocionales
--Imagen 1.
 
 <img src="https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/Estad%C3%ADstica.jpg?raw=true" width="45%"/>
 
@@ -110,7 +109,7 @@ Beneficios de Elegir Asesorías Claudita
   - Involucrar activamente a la audiencia mediante dinámicas interactivas como encuestas, preguntas y respuestas o historias motivadoras.
   - Atraer clientes a través de promociones y ofertas especiales durante el período de lanzamiento. 
 
-### Frecuencia y Enfoque de Publicación
+### 📅 Frecuencia y Enfoque de Publicación
 **Propuesta**:
 - 3 publicaciones semanales en el feed: Lunes, miércoles y viernes.
 - Historias interactivas o informativas: 5 a 7 días por semana.
