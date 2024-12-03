@@ -34,23 +34,16 @@ Ser reconocidos como líderes en asesorías académicas y metodológicas en Amé
 ## 💡 Propuesta de Valor Única
 En Asesorías Claudita, combinamos un enfoque personalizado y práctico con dominio experto en herramientas estadísticas y procesos de investigación, ofreciendo no solo soluciones académicas de alta calidad, sino también el conocimiento necesario para que nuestros clientes sean autosuficientes y destaquen en sus proyectos. ¡Transformamos tus ideas en conocimiento de valor duradero!
 
-## 🎨 Imágenes Promocionales
+## 🖼️ Imágenes Promocionales
 
 <img src="https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/Estad%C3%ADstica.jpg?raw=true" width="45%"/>
 
 - **Descripción**: Esta imagen representa el estilo y funcionalidad de la marca al transmitir profesionalismo, modernidad y un enfoque colaborativo en el análisis y personalización de servicios. La paleta de colores neutros y tonos azules comunica confianza, estabilidad y experiencia, características clave de una marca enfocada en consultoría y análisis de datos. La disposición limpia y ordenada de los gráficos refuerza la organización y precisión de los servicios ofrecidos. La gran pantalla central y la variedad de gráficos y diagramas destacan la capacidad de la marca para analizar y personalizar soluciones basadas en datos. La inclusión de personajes trabajando juntos resalta la naturaleza colaborativa de los servicios, con un enfoque en equipos y clientes. Los gráficos interactivos y la representación de datos muestran el uso de herramientas tecnológicas avanzadas que respaldan las soluciones ofrecidas por la marca. El entorno futurista y dinámico refuerza el compromiso con la innovación.
 
--Imagen 2.
+<img src="https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/Flyer%20Asesor%C3%ADas%20Claudita.jpg?raw=true" width="45%"/>
 
-<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_1.jpeg?raw=true" width="45%"/>
-
-- **Descripción**: Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
-
--Imagen 3.
-
-<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_3.jpeg?raw=true" width="45%"/>
-
-- **Descripción**:Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
+- **Descripción**: Este flyer promocional de Asesorías Claudita destaca los servicios de asesoramiento académico y estadístico con un diseño moderno y profesional. Incluye una presentación clara de la marca y sus valores clave, como profesionalismo, disponibilidad y garantía de calidad. En el contenido, se mencionan los servicios ofrecidos, como asesorías en proyectos de grado y el manejo de programas estadísticos como SPSS, Geoda, y más, junto con una promoción de "10% de descuento en tu primer servicio". Los elementos visuales, como gráficos y colores vibrantes, refuerzan el enfoque en análisis y datos, mientras que la sección de contacto con redes sociales y número telefónico facilita la interacción con la marca.
+En general, es un diseño atractivo, bien equilibrado y funcional para comunicar profesionalismo y accesibilidad. 
 
 ## 📣 Mensajes Publicitarios
 
