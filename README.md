@@ -1,7 +1,7 @@
 # Asesorías_Claudita 📊📊
 Se dan asesorías en proyectos de grado, trabajos de investigación, manejo de programas estadísticos como SPSS, Geoda, OpenEpi, Stata, JASP, Review Manager, proceso de publicación en revistas y todo lo relacionado con la investigación, lo más cercano al conocimiento. 
 
-## 🚀 Identidad de Marca
+## 🏷️ Identidad de Marca
 
 ### Nombre de Marca
 **Asesorías Claudita** - Claro y profesional, destaca la cercanía con un toque personal.
@@ -55,21 +55,18 @@ En general, es un diseño atractivo, bien equilibrado y funcional para comunicar
 
 ## 🌟 Funcionalidades y Beneficios
 
-### Para los Usuarios
--Asesorías Personalizadas: Orientación específica en proyectos de grado, trabajos de investigación y tesis, adaptada a las necesidades individuales de cada cliente.
--Dominio de Herramientas Estadísticas: Uso de programas avanzados como SPSS, GeoDa, OpenEpi, Stata, JASP y Review Manager para análisis de datos cualitativos y cuantitativos.
--Asistencia en Publicaciones Científicas: Apoyo en la redacción, estructuración, edición y envío de artículos a revistas científicas, cumpliendo con normativas internacionales.
--Capacitación Técnica: Talleres y cursos sobre manejo de herramientas estadísticas, diseño de investigaciones y análisis de datos.
-Soporte Completo en Metodología:
--Asistencia en la formulación de preguntas de investigación, diseño de estudios, selección de métodos estadísticos y presentación de resultados.
-Beneficios de Elegir Asesorías Claudita
--Acompañamiento Experto:Contamos con un equipo capacitado que brinda orientación clara y práctica en cada paso del proceso investigativo.
--Ahorro de Tiempo y Recursos:Optimizamos el trabajo académico al ofrecer soluciones rápidas y precisas que facilitan el avance de los proyectos.
--Confianza y Calidad:Garantizamos resultados confiables y alineados con las expectativas académicas y profesionales de nuestros clientes.
--Habilidades Duraderas: Nuestros clientes no solo obtienen soluciones inmediatas, sino también conocimientos prácticos que pueden aplicar a futuro.
--Flexibilidad y Accesibilidad: Servicios adaptados a diferentes niveles de experiencia, presupuestos y plazos, con opciones de atención virtual o presencial.
+1. Asesorías Personalizadas: Orientación específica en proyectos de grado, trabajos de investigación y tesis, adaptada a las necesidades individuales de cada cliente.
+2. Dominio de Herramientas Estadísticas: Uso de programas avanzados como SPSS, GeoDa, OpenEpi, Stata, JASP y Review Manager para análisis de datos cualitativos y cuantitativos.
+3. Asistencia en Publicaciones Científicas: Apoyo en la redacción, estructuración, edición y envío de artículos a revistas científicas, cumpliendo con normativas internacionales.
+4. Capacitación Técnica: Talleres y cursos sobre manejo de herramientas estadísticas, diseño de investigaciones y análisis de datos.
+5. Asistencia en la formulación de preguntas de investigación, diseño de estudios, selección de métodos estadísticos y presentación de resultados.
+6. Acompañamiento Experto:Contamos con un equipo capacitado que brinda orientación clara y práctica en cada paso del proceso investigativo.
+7. Ahorro de Tiempo y Recursos:Optimizamos el trabajo académico al ofrecer soluciones rápidas y precisas que facilitan el avance de los proyectos.
+8. Confianza y Calidad:Garantizamos resultados confiables y alineados con las expectativas académicas y profesionales de nuestros clientes.
+9. Habilidades Duraderas: Nuestros clientes no solo obtienen soluciones inmediatas, sino también conocimientos prácticos que pueden aplicar a futuro.
+10. Flexibilidad y Accesibilidad: Servicios adaptados a diferentes niveles de experiencia, presupuestos y plazos, con opciones de atención virtual o presencial.
 
-## 🚀 Estrategia de Marketing Digital
+## 💻 Estrategia de Marketing Digital
 
 ### Calendario de Publicaciones
 |Fecha| Tipo de Contenido | Descripción| Plataforma | Objetivo |
@@ -117,28 +114,28 @@ Beneficios de Elegir Asesorías Claudita
       *Plataforma: Instagram y Facebook.
 
 -  Miércoles: Educativo o Inspirador
-      Enfoque: Publicaciones que agreguen valor a la audiencia con consejos útiles o mensajes motivadores.
-      Objetivo: Generar confianza y posicionar a la marca como experta en análisis y publicaciones científicas.
-      Ejemplo:
-      Educativo: "¿Sabías que Stata es ideal para análisis econométricos? Descubre cómo aplicarlo."
-      Inspirador: "Todo gran proyecto de investigación comienza con una idea, ¡hazla realidad con nuestra ayuda!"
-      Formato: Carrusel o diseño gráfico atractivo.
+      *Enfoque: Publicaciones que agreguen valor a la audiencia con consejos útiles o mensajes motivadores.
+      *Objetivo: Generar confianza y posicionar a la marca como experta en análisis y publicaciones científicas.
+      *Ejemplo:
+      *Educativo: "¿Sabías que Stata es ideal para análisis econométricos? Descubre cómo aplicarlo."
+      *Inspirador: "Todo gran proyecto de investigación comienza con una idea, ¡hazla realidad con nuestra ayuda!"
+      *Formato: Carrusel o diseño gráfico atractivo.
 
   - Viernes: Casos de Éxito o Promociones
-      Enfoque: Mostrar resultados concretos de clientes satisfechos o destacar ofertas para incentivar contrataciones.
-      Objetivo: Construir confianza y generar conversión directa a clientes.
-      Ejemplo:
-      Caso de éxito: "Gracias a nuestras asesorías, Juan logró publicar su artículo en una revista indexada."
-      Promoción: "¡10% de descuento en todas nuestras asesorías por tiempo limitado!"
-      Formato: Imagen, video corto o infografía.
-      Plataforma: Instagram y Facebook.
+      *Enfoque: Mostrar resultados concretos de clientes satisfechos o destacar ofertas para incentivar contrataciones.
+      *Objetivo: Construir confianza y generar conversión directa a clientes.
+      *Ejemplo:
+      *Caso de éxito: "Gracias a nuestras asesorías, Juan logró publicar su artículo en una revista indexada."
+      *Promoción: "¡10% de descuento en todas nuestras asesorías por tiempo limitado!"
+      *Formato: Imagen, video corto o infografía.
+      *Plataforma: Instagram y Facebook.
     
   - Historias Diarias
-      Frecuencia: 1-2 historias diarias.
-      Enfoque:
-      Encuestas interactivas (ej. "¿Qué software prefieres usar: SPSS o Stata?").
-      Tutoriales rápidos (ej. "Cómo empezar un análisis en Geoda").
-      Recordatorios de promociones u ofertas.
+      *Frecuencia: 1-2 historias diarias.
+      *Enfoque:
+      *Encuestas interactivas (ej. "¿Qué software prefieres usar: SPSS o Stata?").
+      *Tutoriales rápidos (ej. "Cómo empezar un análisis en Geoda").
+      *Recordatorios de promociones u ofertas.
 
 ## 📧 Contacto
 [Añadir información de contacto o redes sociales]
