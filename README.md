@@ -11,7 +11,7 @@ Se dan asesorías en proyectos de grado, trabajos de investigación, manejo de p
 
 ## 🎨 Logo
 
-<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/PrintShareLogo.jpeg?raw=true" width="35%"/>
+<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/PrintShareLogo.jpeg?raw=true" width=](https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/AsesoriasClaudita.jpg?raw=true)"35%"/>
 
 ### Descripción del logo
 El logo describe las herramientas estadísticas mencionadas, como SPSS, Stata, Epidat y GeoDa, están claramente etiquetadas, destacando la especialización en análisis de datos y programas estadísticos. Al fondo con un gráfico tridimensional de líneas y barras con tonos vibrantes (morado, azul, amarillo y rosa), simbolizando análisis de datos y visualización estadística. La elección de colores llamativos crea una sensación moderna y tecnológica. Los tonos neón y pasteles (morado, amarillo, rosa, azul) representan innovación y creatividad, el fondo oscuro realza los colores brillantes, generando un contraste impactante y profesional. Este diseño equilibra texto y gráficos, asegurando claridad en el mensaje mientras conserva un atractivo visual. El logotipo comunica: Especialización en herramientas y análisis estadístico profesionalismo y modernidad, además con el uso de gráficos avanzados, colores tecnológicos expresando creatividad y enfoque académico, ideal para atraer estudiantes, investigadores y profesionales.
@@ -37,7 +37,7 @@ En Asesorías Claudita, combinamos un enfoque personalizado y práctico con domi
 ## 🎨 Imágenes Promocionales
 -Imagen 1.
 
-<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_2.jpeg?raw=true" width="45%"/>
+<img src="https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/Estad%C3%ADstica.jpg?raw=true" width="45%"/>
 
 - **Descripción**: Esta imagen representa el estilo y funcionalidad de la marca al transmitir profesionalismo, modernidad y un enfoque colaborativo en el análisis y personalización de servicios. La paleta de colores neutros y tonos azules comunica confianza, estabilidad y experiencia, características clave de una marca enfocada en consultoría y análisis de datos. La disposición limpia y ordenada de los gráficos refuerza la organización y precisión de los servicios ofrecidos. La gran pantalla central y la variedad de gráficos y diagramas destacan la capacidad de la marca para analizar y personalizar soluciones basadas en datos. La inclusión de personajes trabajando juntos resalta la naturaleza colaborativa de los servicios, con un enfoque en equipos y clientes. Los gráficos interactivos y la representación de datos muestran el uso de herramientas tecnológicas avanzadas que respaldan las soluciones ofrecidas por la marca. El entorno futurista y dinámico refuerza el compromiso con la innovación.
 
