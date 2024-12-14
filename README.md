@@ -137,4 +137,14 @@ En general, es un diseño atractivo, bien equilibrado y funcional para comunicar
       *Recordatorios de promociones u ofertas.
 
 ## 📧 Contacto
-[Añadir información de contacto o redes sociales]
+[
+Claudia Marcela Arias Salazar 
+Médica y Cirujana (Universidad Libre)
+Magíster en Epidemiología (Universidad Libre)
+Investigador Min-Ciencias (CvLAC) / ID ORCID: (ORCID)
+Miembro del Grupo Interdisciplinario de investigación en Epidemiología y Salud Pública (GIESP)
+Miembro de Colombian Urology Research Group (CURG)
+Correo: ipscoordinacionmedica@outlook.com
+Contacto: 304 3940105
+RM: 1144059100
+]
