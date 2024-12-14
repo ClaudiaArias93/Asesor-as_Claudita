@@ -11,7 +11,7 @@ Se dan asesorías en proyectos de grado, trabajos de investigación, manejo de p
 
 ## 🎨 Logo
 
-<img src="https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/AsesoriasClaudita.jpg?raw=true" width="65%"/>
+<img src="https://github.com/ClaudiaArias93/Asesor-as_Claudita/blob/main/AsesoriasClaudita.jpg?raw=true" width="35%"/>
 
 ### Descripción del logo
 El logo describe las herramientas estadísticas mencionadas, como SPSS, Stata, Epidat y GeoDa, están claramente etiquetadas, destacando la especialización en análisis de datos y programas estadísticos. Al fondo con un gráfico tridimensional de líneas y barras con tonos vibrantes (morado, azul, amarillo y rosa), simbolizando análisis de datos y visualización estadística. La elección de colores llamativos crea una sensación moderna y tecnológica. Los tonos neón y pasteles (morado, amarillo, rosa, azul) representan innovación y creatividad, el fondo oscuro realza los colores brillantes, generando un contraste impactante y profesional. Este diseño equilibra texto y gráficos, asegurando claridad en el mensaje mientras conserva un atractivo visual. El logotipo comunica: Especialización en herramientas y análisis estadístico profesionalismo y modernidad, además con el uso de gráficos avanzados, colores tecnológicos expresando creatividad y enfoque académico, ideal para atraer estudiantes, investigadores y profesionales.
